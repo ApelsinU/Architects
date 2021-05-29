@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/Architects/static/css/main.a411a6b2.chunk.css",
-    "main.js": "/Architects/static/js/main.e27ded56.chunk.js",
-    "main.js.map": "/Architects/static/js/main.e27ded56.chunk.js.map",
+    "main.js": "/Architects/static/js/main.a2f8e947.chunk.js",
+    "main.js.map": "/Architects/static/js/main.a2f8e947.chunk.js.map",
     "runtime-main.js": "/Architects/static/js/runtime-main.2c0e3141.js",
     "runtime-main.js.map": "/Architects/static/js/runtime-main.2c0e3141.js.map",
     "static/css/2.18b18135.chunk.css": "/Architects/static/css/2.18b18135.chunk.css",
-    "static/js/2.9384bb35.chunk.js": "/Architects/static/js/2.9384bb35.chunk.js",
-    "static/js/2.9384bb35.chunk.js.map": "/Architects/static/js/2.9384bb35.chunk.js.map",
+    "static/js/2.1f53cc3a.chunk.js": "/Architects/static/js/2.1f53cc3a.chunk.js",
+    "static/js/2.1f53cc3a.chunk.js.map": "/Architects/static/js/2.1f53cc3a.chunk.js.map",
     "static/js/3.d2543682.chunk.js": "/Architects/static/js/3.d2543682.chunk.js",
     "static/js/3.d2543682.chunk.js.map": "/Architects/static/js/3.d2543682.chunk.js.map",
     "index.html": "/Architects/index.html",
     "static/css/2.18b18135.chunk.css.map": "/Architects/static/css/2.18b18135.chunk.css.map",
     "static/css/main.a411a6b2.chunk.css.map": "/Architects/static/css/main.a411a6b2.chunk.css.map",
-    "static/js/2.9384bb35.chunk.js.LICENSE.txt": "/Architects/static/js/2.9384bb35.chunk.js.LICENSE.txt",
+    "static/js/2.1f53cc3a.chunk.js.LICENSE.txt": "/Architects/static/js/2.1f53cc3a.chunk.js.LICENSE.txt",
     "static/media/Alesya.d440e436.png": "/Architects/static/media/Alesya.d440e436.png",
     "static/media/Ananich.a1acb86b.jpg": "/Architects/static/media/Ananich.a1acb86b.jpg",
+    "static/media/Dushewsky.42a396ff.jpg": "/Architects/static/media/Dushewsky.42a396ff.jpg",
+    "static/media/Langbard.6cc0b783.jpg": "/Architects/static/media/Langbard.6cc0b783.jpg",
     "static/media/Levin.5c3fac6d.jpg": "/Architects/static/media/Levin.5c3fac6d.jpg",
+    "static/media/Shabunevskij.cc0d1259.jpg": "/Architects/static/media/Shabunevskij.cc0d1259.jpg",
     "static/media/Vadim.17bc6ab3.png": "/Architects/static/media/Vadim.17bc6ab3.png",
     "static/media/castle-mir.fafc4ecd.jpg": "/Architects/static/media/castle-mir.fafc4ecd.jpg",
     "static/media/castle-nesv.3eabc545.jpg": "/Architects/static/media/castle-nesv.3eabc545.jpg",
@@ -26,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.2c0e3141.js",
     "static/css/2.18b18135.chunk.css",
-    "static/js/2.9384bb35.chunk.js",
+    "static/js/2.1f53cc3a.chunk.js",
     "static/css/main.a411a6b2.chunk.css",
-    "static/js/main.e27ded56.chunk.js"
+    "static/js/main.a2f8e947.chunk.js"
   ]
 }
